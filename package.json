@@ -1,0 +1,9 @@
+{
+  "name": "small-compiler",
+  "version": "1.0.0",
+  "description": "A small compiler written in JavaScript.",
+  "main": "main.js",
+  "type": "module",
+  "author": "Ayush Singh",
+  "license": "MIT"
+}
